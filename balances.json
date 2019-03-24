@@ -1,0 +1,26 @@
+{
+  "bitshares": "wss://btsfullnode.bangzi.info/ws",
+  "gateway": {
+    "warnAccountBalance": 50,
+    "warnPoolBalance": 50,
+    "okAccountBalance": 100,
+    "okPoolBalance": 100
+  },
+  "accounts": [
+    [
+      "blckchnd",
+      "BTS",
+      "50.0"
+    ],
+    [
+      "rudex-market",
+      "RUDEX.BTC",
+      "0.5"
+    ],
+    [
+      "rudex-market",
+      "RUDEX.EOS",
+      "300"
+    ]
+  ]
+}
