@@ -1,5 +1,5 @@
 {
-  "bitshares": "wss://bitshares.openledger.info/ws",
+  "bitshares": "wss://btsfullnode.bangzi.info/ws",
   "gateway": {
     "warnMinAmount": 1.5,
     "okAccumulatedFees": 100,
