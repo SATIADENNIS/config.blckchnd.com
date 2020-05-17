@@ -1,28 +1,18 @@
 {
   "bitshares": "wss://bitshares.openledger.info/ws",
   "gateway": {
-    "warnMinAmount": 1,
+    "warnMinAmount": 1.5,
     "okAccumulatedFees": 100,
-    "warnAccountBalance": 50,
-    "warnPoolBalance": 50,
-    "okAccountBalance": 100,
-    "okPoolBalance": 100
+    "warnAccountBalance": 100,
+    "warnPoolBalance": 100,
+    "okAccountBalance": 200,
+    "okPoolBalance": 500
   },
   "accounts": [
     [
       "blckchnd",
       "BTS",
-      "50.0"
-    ],
-    [
-      "her-mes",
-      "RUDEX.BTC",
-      "0.1"
-    ],
-    [
-      "her-mes",
-      "RUDEX.STEEM",
-      "300"
+      "200.0"
     ]
   ]
 }
